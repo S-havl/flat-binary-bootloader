@@ -3,7 +3,7 @@ Rewrite of my S-havlOS bootloader as a pure flat binary, using raw machine code 
 
 ## Analysis with xxd to verify that it is spelled correctly.
 
-![xxd demostration](images/xxd.PNG)
+![xxd demostration](images/xxd2.PNG)
 
 # License
 
