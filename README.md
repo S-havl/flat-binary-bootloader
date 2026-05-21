@@ -7,4 +7,4 @@ Rewrite of my STRIX bootloader as a pure flat binary, using raw machine code onl
 
 # License
 
-MIT
+GNU General Public License v3.0
